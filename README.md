@@ -1,0 +1,1 @@
+C# is a modern, object-oriented programming language developed by Microsoft that runs on the .NET framework. It's known for its simplicity, type safety, and rich class library, making it a favorite for many developers.
